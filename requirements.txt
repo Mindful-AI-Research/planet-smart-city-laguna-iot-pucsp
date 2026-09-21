@@ -2,8 +2,10 @@
 
 # Framework Web Application:
 
-streamlit==1.53.1
+
+streamlit==1.54.01
 Django==6.0.7
+
 
 # Data Manipulation Libraries:
 
