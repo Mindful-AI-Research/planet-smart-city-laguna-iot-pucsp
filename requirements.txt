@@ -21,7 +21,7 @@ keras==3.15.1
 
 # Natural Language Processing and AI Libraries:
 nltk==3.10.4
-spacy==3.8.16
+spacy==3.8.18
 langchain>=0.0.191
 langchain-community
 openai
