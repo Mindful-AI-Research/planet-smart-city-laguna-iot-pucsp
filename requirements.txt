@@ -1,7 +1,4 @@
-Segue o `requirements.txt` **completo**, com as dependências do anexo incorporadas e sem entradas duplicadas. Mantive as versões que já estavam no arquivo do repositório. [github](https://github.com/Mindful-AI-Research/planet-smart-city-laguna-iot-pucsp/blob/main/requirements.txt)
-
-```txt
-# Framework Web Application:
+# Web Application Frameworks:
 streamlit==1.54.01
 Django==6.1.2
 
@@ -22,14 +19,14 @@ scikit-learn==1.9.1
 tensorflow==2.21.0
 keras==3.15.1
 
-# Natural Language Processing Libraries:
+# Natural Language Processing and AI Libraries:
 nltk==3.10.4
 spacy==3.8.16
 langchain>=0.0.191
 langchain-community
 openai
 
-# Web Scraping Libraries:
+# Web Scraping and HTTP Libraries:
 beautifulsoup4==4.15.0
 requests==2.34.2
 
@@ -42,15 +39,12 @@ jupyter==1.1.1
 ipywidgets==8.1.9
 notebook==7.6.4
 
-# Image and PDF Libraries:
+# Image Processing and PDF Libraries:
 Pillow
 fpdf
 
 # Streamlit Extensions:
 streamlit-autorefresh
 
-# Other Useful Libraries:
+# Other Utilities:
 joblib==1.6.0
-```
-
-Não alterei o GitHub nem testei a instalação ou a compatibilidade dessas versões.
