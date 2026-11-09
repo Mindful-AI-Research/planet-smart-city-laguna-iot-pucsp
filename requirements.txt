@@ -1,6 +1,6 @@
 # Web Application Frameworks:
 streamlit==1.54.01
-Django==6.1.2
+Django==6.1.3
 
 # Data Manipulation Libraries:
 pandas==3.0.6
